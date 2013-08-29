@@ -1,0 +1,5 @@
+(transient-mark-mode 1)
+(show-paren-mode 1)
+(column-number-mode 1)
+(setq auto-save-default nil)
+(setq scroll-step 1)
