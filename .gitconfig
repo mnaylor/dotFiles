@@ -1,0 +1,7 @@
+[user]
+	name = Michelle Naylor
+	email = michnaylor@gmail.com
+[core]
+	editor = emacs
+[merge]
+	conflictstyle = diff3
